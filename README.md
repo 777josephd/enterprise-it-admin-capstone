@@ -1,1 +1,1 @@
-# enterprise-it-admin-capstone
+# Enterprise IT Administration Capstone
