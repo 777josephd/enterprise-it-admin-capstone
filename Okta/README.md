@@ -350,16 +350,16 @@ The complete investigation log is documented in [`findings.md`](./findings.md). 
 
 ```
 okta/
-├── README.md               <- This file
-├── findings.md             <- Complete investigation log (18 findings)
+├── README.md               
+├── findings.md             
 └── screenshots/
-    ├── ad-integration/     <- Agent installation, import results, attribute mapping
-    ├── group-management/   <- Groups list, IT Staff creation, member assignment
-    ├── user-lifecycle/     <- Deactivation, reactivation, password reset
-    ├── mfa-policy/         <- Authenticators, policy configuration, rule order
-    ├── sso-aws/            <- AWS SAML config, SSO login flow, access portal
-    ├── system-log/         <- Log overview, filtered events, CSV export
-    └── workflows/          <- Workflows canvas, trigger selection
+    ├── ad-integration/    
+    ├── group-management/   
+    ├── user-lifecycle/     
+    ├── mfa-policy/         
+    ├── sso-aws/            
+    ├── system-log/         
+    └── workflows/          
 ```
 
 ---
