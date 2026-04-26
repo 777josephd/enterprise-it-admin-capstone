@@ -1,7 +1,7 @@
 # Enterprise IT Administration Capstone
 ### Identity, Endpoint, and Support Operations in a Simulated Enterprise Environment
 
-**Joseph De Santiago**
+**Joseph De Santiago:**
 [LinkedIn](https://linkedin.com/in/joseph-d-0875a324b/)
 
 ---
@@ -158,7 +158,7 @@ See [Microsoft 365/SharePoint/README.md](Microsoft%20365/SharePoint/README.md) a
 ```
 enterprise-it-admin-capstone/
 ├── README.md
-├── okta/
+├── Okta/
 │   ├── README.md
 │   ├── findings.md
 │   └── screenshots/
