@@ -286,11 +286,9 @@ See `screenshots/` folder for visual documentation of each task.
 | [sharepoint-support-owners.png](screenshots/sharepoint-support-owners.png) | Task 2 | Sterling IT Support membership — owners section |
 | [sharepoint-support-members.png](screenshots/sharepoint-support-members.png) | Task 2 | Sterling IT Support membership — members section |
 | [sharepoint-announcements-members.png](screenshots/sharepoint-announcements-members.png) | Task 2 | Sterling IT Announcements membership — shelpdesk as member |
-| [sharepoint-custom-permission-config.png](screenshots/sharepoint-custom-permission-config.png) | Task 3 | Helpdesk Technician permission level configuration before saving |
 | [sharepoint-permission-levels-list.png](screenshots/sharepoint-permission-levels-list.png) | Task 3 | Permission Levels list showing Helpdesk Technician added |
 | [sharepoint-library-landing.png](screenshots/sharepoint-library-landing.png) | Task 4 | IT Support Documents library landing page |
 | [sharepoint-custom-column.png](screenshots/sharepoint-custom-column.png) | Task 4 | Document Type choice column visible in library headers |
-| [sharepoint-versioning-settings.png](screenshots/sharepoint-versioning-settings.png) | Task 4 | Versioning settings panel showing major versions enabled at 100 |
 | [sharepoint-version-history.png](screenshots/sharepoint-version-history.png) | Task 4 | Version history panel showing two versions with timestamps |
 | [sharepoint-onedrive-storage.png](screenshots/sharepoint-onedrive-storage.png) | Task 5 | OneDrive storage limit settings showing 1024 GB default |
 | [sharepoint-external-sharing.png](screenshots/sharepoint-external-sharing.png) | Task 6 | Sharing settings panel showing Most Permissive configuration |
