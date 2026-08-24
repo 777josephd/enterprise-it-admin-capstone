@@ -12,7 +12,7 @@ Atera was deployed against the same Windows 11 Pro endpoint already enrolled in 
 
 | Component | Detail |
 |---|---|
-| Hypervisor | Proxmox VE (Ryzen 9 9900X, 64GB RAM) |
+| Hypervisor | Proxmox VE |
 | Managed Endpoint | Windows 11 Pro VM on VLAN 10 (10.0.10.0/24) |
 | Atera Tenant | Free trial (31-day, 300 agent installs) |
 | Site | Local Lab |
