@@ -143,16 +143,6 @@ See [Microsoft 365/SharePoint/README.md](Microsoft%20365/SharePoint/README.md) a
 
 ---
 
-## Certifications
-
-| Certification | Issuer | Status |
-|---|---|---|
-| CISSP Associate | ISC² | Active |
-| CySA+ | CompTIA | Active |
-| Google Cybersecurity Professional | Google | Active |
-
----
-
 ## Repository Structure
 
 ```
